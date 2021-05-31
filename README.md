@@ -60,11 +60,10 @@ Participate in our discussion group, [GraspanMeet](https://groups.google.com/d/f
 
 ## Project Contributors
 
-* [**Kai Wang**](http://web.cs.ucla.edu/~wangkai/) - *PhD Student, UCLA* 
-* [**Aftab Hussain**](http://www.ics.uci.edu/~aftabh/) - *PhD Student, UCI* 
+* [**Kai Wang**](http://web.cs.ucla.edu/~wangkai/) - Graduated, now at Facebook AI 
+* [**Aftab Hussain**](http://www.ics.uci.edu/~aftabh/) - Graduated
 * [**Zhiqiang Zuo**](http://z-zhiqiang.github.io/) - *Assistant Professor, Nanjing University* 
 * [**Harry Xu**](http://www.cs.ucla.edu/~harryxu) - *Associate Professor, UCLA* 
-* [**Ardalan Sani**](http://www.ics.uci.edu/~ardalan/) - *Assistant Professor, UCI* 
+* [**Ardalan Amiri Sani**](http://www.ics.uci.edu/~ardalan/) - *Assistant Professor, UCI* 
 * **John Thorpe** - *PhD Student, UCLA*
-* **Sung-Soo Son** - *Visiting Undergraduate Student, UCI*
 * [**Khanh Ngyuen**](https://khanhtn1.bitbucket.io/) - *Assistant Professor, Texas A&M University*
